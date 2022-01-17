@@ -1,4 +1,4 @@
-# alura
+# ALURA
 # Deep Learning parte 1: Introducción con Keras
 Bienvenido al curso de deep Learning parte 1: Introducción con Keras.
 
